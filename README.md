@@ -1,5 +1,6 @@
-# 👩‍💻 Letícia Renelly 
+# 👩‍💻 <span style="font-family: 'Courier New', serif;">Letícia Renelly</span> 
 
+**`Desenvolvedora Front-End & UX/UI Designer`**
 **`Desenvolvedora Front-End & UX/UI Designer`**
 
 Olá! Me chamo Letícia Renelly e sou aquela pessoa que passa horas pensando se um botão deveria ter `gap: 16px` ou `20px` e, logo em seguida, fico pelejando pra transformar esse mesmo layout em código limpo e responsivo. Acredito que dizer de onde eu sou não faça diferença se a cabeça já entrega.
