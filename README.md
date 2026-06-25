@@ -1,4 +1,4 @@
-# 👩‍💻 <span style="font-family: 'Courier New', monospace;">Letícia Renelly</span> 
+# 👩‍💻 <img src="./leticiarenelly.svg" alt="Letícia Renelly" height="36px" align="center">
 
 **`Desenvolvedora Front-End & UX/UI Designer`**
 
