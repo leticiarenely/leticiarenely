@@ -1,5 +1,3 @@
-
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -7,7 +5,6 @@
          <img src="https://github.com/user-attachments/assets/c5897478-d4f9-4a3f-8682-f9d69ae9da84" alt="leticia_nome" width="230" height="28" style="vertical-align: middle;">
       </h1>
       <p>Desenvolvedora Front-End & UI/UX Designer</p>
-      <br><br>
       <p>
         Me chamo Letícia Renelly e passo um bocado de tempo pensando num botão e fico pelejando pra transformar esse mesmo layout em código limpo e responsivo. Acredito que dizer de onde eu sou não faça diferença se a cabeça já entrega.
       </p>
