@@ -9,7 +9,7 @@
       <p>Desenvolvedora Front-End & UI/UX Designer</p>
       <br><br>
       <p>
-        Me chamo Letícia Renelly e passo horas pensando se um botão deveria ter gap: 16px ou 20px e fico pelejando pra transformar esse mesmo layout em código limpo e responsivo. Acredito que dizer de onde eu sou não faça diferença se a cabeça já entrega.
+        Me chamo Letícia Renelly e passo um bocado de tempo pensando num botão e fico pelejando pra transformar esse mesmo layout em código limpo e responsivo. Acredito que dizer de onde eu sou não faça diferença se a cabeça já entrega.
       </p>
       <p>
         Atualmente, curso Análise e Desenvolvimento de Sistemas no IFCE, onde mergulho no mundo do software. Na prática, estou na área que sempre amei e sempre gostei de bulir: o design.
